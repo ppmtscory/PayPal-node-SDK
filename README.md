@@ -1,6 +1,6 @@
 # PayPal REST SDK
 
-Continuous integration status:
+Continuous Integration status:
 
 [![Build Status](https://travis-ci.org/paypal/PayPal-node-SDK.png?branch=master)](https://travis-ci.org/paypal/PayPal-node-SDK) [![Coverage Status](https://coveralls.io/repos/paypal/PayPal-node-SDK/badge.png?branch=master)](https://coveralls.io/r/paypal/PayPal-node-SDK?branch=master) 
 
